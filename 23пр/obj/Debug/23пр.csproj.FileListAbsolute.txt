@@ -1,0 +1,28 @@
+C:\Users\ПК\OneDrive\Рабочий стол\ТОФИК\23пр\23пр\bin\Debug\23пр.exe.config
+C:\Users\ПК\OneDrive\Рабочий стол\ТОФИК\23пр\23пр\bin\Debug\23пр.exe
+C:\Users\ПК\OneDrive\Рабочий стол\ТОФИК\23пр\23пр\bin\Debug\23пр.pdb
+C:\Users\ПК\OneDrive\Рабочий стол\ТОФИК\23пр\23пр\obj\Debug\23пр.csproj.AssemblyReference.cache
+C:\Users\ПК\OneDrive\Рабочий стол\ТОФИК\23пр\23пр\obj\Debug\23пр.csproj.SuggestedBindingRedirects.cache
+C:\Users\ПК\OneDrive\Рабочий стол\ТОФИК\23пр\23пр\obj\Debug\_23пр.Form1.resources
+C:\Users\ПК\OneDrive\Рабочий стол\ТОФИК\23пр\23пр\obj\Debug\_23пр.Properties.Resources.resources
+C:\Users\ПК\OneDrive\Рабочий стол\ТОФИК\23пр\23пр\obj\Debug\23пр.csproj.GenerateResource.cache
+C:\Users\ПК\OneDrive\Рабочий стол\ТОФИК\23пр\23пр\obj\Debug\23пр.csproj.CoreCompileInputs.cache
+C:\Users\ПК\OneDrive\Рабочий стол\ТОФИК\23пр\23пр\obj\Debug\23пр.exe
+C:\Users\ПК\OneDrive\Рабочий стол\ТОФИК\23пр\23пр\obj\Debug\23пр.pdb
+C:\Users\ПК\OneDrive\Рабочий стол\ТОФИК\23пр\23пр\obj\Debug\_23пр.Colors.resources
+C:\Users\ПК\OneDrive\Рабочий стол\ТОФИК\23пр\23пр\obj\Debug\_23пр.Form2.resources
+C:\Users\ПК\OneDrive\Рабочий стол\ТОФИК\23пр\23пр\obj\Debug\_23пр.RGB.resources
+C:\Users\rasul\Documents\ОАП\23пр\23пр\bin\Debug\23пр.exe.config
+C:\Users\rasul\Documents\ОАП\23пр\23пр\bin\Debug\23пр.exe
+C:\Users\rasul\Documents\ОАП\23пр\23пр\bin\Debug\23пр.pdb
+C:\Users\rasul\Documents\ОАП\23пр\23пр\obj\Debug\23пр.csproj.AssemblyReference.cache
+C:\Users\rasul\Documents\ОАП\23пр\23пр\obj\Debug\23пр.csproj.SuggestedBindingRedirects.cache
+C:\Users\rasul\Documents\ОАП\23пр\23пр\obj\Debug\_23пр.Colors.resources
+C:\Users\rasul\Documents\ОАП\23пр\23пр\obj\Debug\_23пр.Form1.resources
+C:\Users\rasul\Documents\ОАП\23пр\23пр\obj\Debug\_23пр.Form2.resources
+C:\Users\rasul\Documents\ОАП\23пр\23пр\obj\Debug\_23пр.Properties.Resources.resources
+C:\Users\rasul\Documents\ОАП\23пр\23пр\obj\Debug\_23пр.RGB.resources
+C:\Users\rasul\Documents\ОАП\23пр\23пр\obj\Debug\23пр.csproj.GenerateResource.cache
+C:\Users\rasul\Documents\ОАП\23пр\23пр\obj\Debug\23пр.csproj.CoreCompileInputs.cache
+C:\Users\rasul\Documents\ОАП\23пр\23пр\obj\Debug\23пр.exe
+C:\Users\rasul\Documents\ОАП\23пр\23пр\obj\Debug\23пр.pdb
